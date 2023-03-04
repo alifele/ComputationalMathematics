@@ -1,2 +1,1 @@
-# ComputationalMathematics
-ComputationalMathematics = Mathematics + ComputerScience
+# Mathematics + ComputerScience
